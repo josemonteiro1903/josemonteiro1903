@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Olá! Me chamo José Vitor Monteiro
 
-<!--
-**josemonteiro1903/josemonteiro1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😊 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
+🎓 Atualmente cursando o 2º período de Ciência da Computação e o 1º período de Sistemas de Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Sou movido pela curiosidade e pela busca constante por aprendizado e desafios que estimulem minha criatividade, pensamento crítico e desenvolvimento técnico.
+
+🚀 Tenho grande interesse em:
+- Desenvolvimento de software
+- Inteligência Artificial
+- Tecnologia aplicada ao bem-estar social
+
+🌱 No momento, estou focado em aprender mais sobre algoritmos, estruturas de dados, C, Python e os fundamentos da computação.
+
+📫 Como me encontrar:
+- LinkedIn: [josé vitor monteiro](https://www.linkedin.com/in/jos%C3%A9-vitor-monteiro-1189a7365/)
+- E-mail: josevmonteiro1903@gmail.com
+- Número de Telefone: (91) 98762-6239
