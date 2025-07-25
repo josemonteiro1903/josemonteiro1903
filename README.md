@@ -11,7 +11,7 @@
 - Inteligência Artificial
 - Tecnologia aplicada ao bem-estar social
 
-🌱 No momento, estou focado em aprender mais sobre algoritmos, estruturas de dados, C, Python e os fundamentos da computação.
+🌱 No momento, estou focado em aprender mais sobre algoritmos, lógica digital, C, Python e os fundamentos da computação.
 
 📫 Como me encontrar:
 - LinkedIn: [josé vitor monteiro](https://www.linkedin.com/in/jos%C3%A9-vitor-monteiro-1189a7365/)
