@@ -17,3 +17,4 @@
 - LinkedIn: [josé vitor monteiro](https://www.linkedin.com/in/jos%C3%A9-vitor-monteiro-1189a7365/)
 - E-mail: josevmonteiro1903@gmail.com
 - Número de Telefone: (91) 98762-6239
+<img src="https://skillicons.dev/icons?i=c&theme=dark" />
