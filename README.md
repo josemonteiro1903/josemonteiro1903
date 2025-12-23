@@ -2,7 +2,7 @@
 
 😊 Pronomes: Ele/Dele
 
-🎓 Atualmente cursando o 2º período de Ciência da Computação e o 1º período de Sistemas de Informação.
+🎓 Atualmente cursando o 2º período de Ciência da Computação.
 
 💡 Sou movido pela curiosidade e pela busca constante por aprendizado e desafios que estimulem minha criatividade, pensamento crítico e desenvolvimento técnico.
 
